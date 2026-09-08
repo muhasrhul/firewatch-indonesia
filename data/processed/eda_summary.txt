@@ -1,0 +1,58 @@
+======================================================================
+FIREWATCH INDONESIA - EDA SUMMARY
+======================================================================
+
+Waktu Analisis: 2026-09-08 13:53:54
+Total Hotspot: 192,897
+Periode: 2026-08-01 s/d 2026-09-07
+
+TREN TEMPORAL
+======================================================================
+Rata-rata hotspot per hari: 5213
+Hari dengan hotspot tertinggi: 11,100 pada 2026-08-29
+Hari dengan hotspot terendah: 615 pada 2026-08-04
+
+CONFIDENCE LEVEL
+======================================================================
+Normal    : 175,299 (90.88%)
+Low       :  10,279 ( 5.33%)
+High      :   7,319 ( 3.79%)
+
+DAY VS NIGHT
+======================================================================
+Day (Siang)    : 115,217 (59.73%)
+Night (Malam)  :  77,680 (40.27%)
+
+STATISTIK BRIGHTNESS & FRP
+======================================================================
+Brightness - Mean: 330.70 K, Median: 333.70 K
+FRP - Mean: 7.83 MW, Median: 4.48 MW
+
+KOORDINAT
+======================================================================
+Latitude: -10.85° hingga 5.60°
+Longitude: 95.34° hingga 140.98°
+
+TOP 10 LOKASI HOTSPOT (Grid 0.5° x 0.5°)
+======================================================================
+ 1. Lat   -2.00°, Lon  110.00° :  8,330 hotspot
+ 2. Lat   -2.50°, Lon  113.50° :  6,430 hotspot
+ 3. Lat   -3.00°, Lon  112.50° :  5,294 hotspot
+ 4. Lat   -2.50°, Lon  114.00° :  4,965 hotspot
+ 5. Lat   -2.50°, Lon  110.00° :  4,381 hotspot
+ 6. Lat   -1.50°, Lon  110.00° :  4,237 hotspot
+ 7. Lat   -3.00°, Lon  115.00° :  2,938 hotspot
+ 8. Lat   -1.00°, Lon  110.00° :  2,543 hotspot
+ 9. Lat   -0.50°, Lon  109.50° :  2,336 hotspot
+10. Lat   -2.50°, Lon  113.00° :  2,275 hotspot
+
+VISUALISASI YANG DIHASILKAN
+======================================================================
+1. images/01_tren_harian.png
+2. images/02_tren_mingguan.png
+3. images/03_confidence_level.png
+4. images/04_day_vs_night.png
+5. images/05_brightness_frp.png
+6. images/06_distribusi_geografis.png
+7. images/07_heatmap_density.png
+8. images/08_top_locations.png

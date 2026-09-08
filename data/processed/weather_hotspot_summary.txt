@@ -1,0 +1,32 @@
+======================================================================
+FIREWATCH INDONESIA - WEATHER VS HOTSPOT ANALYSIS
+======================================================================
+
+Periode Analisis: 2026-08-01 s/d 2026-09-01
+Total Hari: 31
+
+KORELASI PEARSON
+======================================================================
+Suhu Maksimum vs Hotspot      : r =  0.5971, p = 0.000628
+Curah Hujan vs Hotspot        : r = -0.2770, p = 0.145813
+Kelembapan vs Hotspot         : r = -0.7864, p = 0.000000
+
+INTERPRETASI
+======================================================================
+✓ Suhu memiliki korelasi SIGNIFIKAN (p < 0.05)
+✗ Curah hujan TIDAK memiliki korelasi signifikan (p ≥ 0.05)
+✓ Kelembapan memiliki korelasi SIGNIFIKAN (p < 0.05)
+
+STATISTIK HOTSPOT
+======================================================================
+Rata-rata hotspot semua hari     : 5011
+Rata-rata hari hujan (>1mm)      : 4617 (n=27)
+Rata-rata hari kering (≤1mm)     : 7014 (n=2)
+Rata-rata hari panas (>median)   : 6257 (n=14)
+Rata-rata hari normal (≤median)  : 3407 (n=15)
+
+VISUALISASI
+======================================================================
+1. images/12_weather_vs_hotspot_timeseries.png - Time series overlay
+2. images/13_weather_vs_hotspot_scatter.png - Scatter plots
+3. images/14_correlation_heatmap.png - Correlation heatmap

@@ -1,0 +1,58 @@
+============================================================
+FIREWATCH INDONESIA - HASIL PEMERIKSAAN DATA
+============================================================
+
+Waktu Pemeriksaan: 2026-09-08 13:48:49
+File: fire_nrt_SV-C2_800747.csv
+
+DIMENSI DATASET
+============================================================
+Jumlah Baris (Records)    : 192,897
+Jumlah Kolom (Features)   : 14
+
+DUPLIKASI
+============================================================
+Jumlah Baris Duplikat     : 0
+Persentase Duplikat       : 0.00%
+
+MISSING VALUES
+============================================================
+Tidak ada missing values.
+
+RENTANG TANGGAL
+============================================================
+Tanggal Awal              : 2026-08-01 00:00:00
+Tanggal Akhir             : 2026-09-07 00:00:00
+Rentang Waktu             : 37 hari
+
+KOORDINAT
+============================================================
+Latitude Min              : -10.8540°
+Latitude Max              : 5.5996°
+Longitude Min             : 95.3374°
+Longitude Max             : 140.9769°
+Koordinat Invalid (Lat)   : 0
+Koordinat Invalid (Lon)   : 0
+
+TIPE DATA
+============================================================
+latitude             : float64
+longitude            : float64
+brightness           : float64
+scan                 : float64
+track                : float64
+acq_date             : datetime64[ns]
+acq_time             : int64
+satellite            : object
+instrument           : object
+confidence           : object
+version              : object
+bright_t31           : float64
+frp                  : float64
+daynight             : object
+bulan                : period[M]
+
+DISTRIBUSI BULAN
+============================================================
+2026-08 : 145,241
+2026-09 : 47,656

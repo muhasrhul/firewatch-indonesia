@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.tex
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*_files/
+
+# Data files (optional - uncomment if data is too large)
+# data/raw/*.csv
+# data/raw/*.json
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Temporary
+*.tmp
+*.bak
+~$*

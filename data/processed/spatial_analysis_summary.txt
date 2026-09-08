@@ -1,0 +1,31 @@
+======================================================================
+FIREWATCH INDONESIA - SPATIAL ANALYSIS SUMMARY
+======================================================================
+
+Total Hotspot: 191,697
+Jumlah Provinsi dengan Hotspot: 32
+
+TOP 10 PROVINSI DENGAN HOTSPOT TERBANYAK
+======================================================================
+15. KALIMANTAN BARAT                    :  49,645 (25.90%)
+17. KALIMANTAN TENGAH                   :  47,458 (24.76%)
+10. IRIAN JAYA TIMUR                    :  18,259 ( 9.52%)
+18. KALIMANTAN TIMUR                    :  13,342 ( 6.96%)
+31. SUMATERA SELATAN                    :  11,977 ( 6.25%)
+16. KALIMANTAN SELATAN                  :   9,730 ( 5.08%)
+20. MALUKU                              :   4,628 ( 2.41%)
+22. NUSA TENGGARA TIMUR                 :   4,290 ( 2.24%)
+26. SULAWESI SELATAN                    :   3,069 ( 1.60%)
+14. JAWA TIMUR                          :   3,043 ( 1.59%)
+
+STATISTIK
+======================================================================
+Mean hotspot per provinsi: 5991
+Median hotspot per provinsi: 1849
+Std Dev: 11951
+
+VISUALISASI YANG DIHASILKAN
+======================================================================
+1. images/09_top_provinsi.png - Bar chart top 10 provinsi
+2. images/10_peta_choropleth.png - Peta choropleth
+3. images/11_peta_overlay.png - Peta dengan overlay hotspot
